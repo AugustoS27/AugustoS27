@@ -2,9 +2,9 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h2 align="center">
+<h3 align="center">
   Hola, Soy Augusto Serafini!
-</h2>
+</h3>
 
 ---
 
