@@ -5,6 +5,9 @@
 <h1 align="center">
   Hola, Soy Augusto Serafini!
 </h1>
+
+---
+
 <h3 align="center">
   Estudiante de 5º año de Ingeniería en Sistemas de Información (UTN FRC)
 </h3>
