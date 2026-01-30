@@ -32,11 +32,4 @@
   <a href="https://www.linkedin.com/in/augustoserafini/" target="_blank"><img aling="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </p>
 
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient"
-    style="transform: scaleY(-1);"
-  />
-</div>
 
