@@ -36,6 +36,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient"
-    style="transform: rotate(180deg);"
+    style="transform: scaleY(-1);"
   />
 </div>
+
